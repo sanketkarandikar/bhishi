@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745822359972,
+  "timestamp": 1745823307803,
   "index": "/bhishi/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/bhishi/favicon.ico",
         "/bhishi/index.html",
-        "/bhishi/main.1c8a139cb47e6e60.js",
+        "/bhishi/main.2dc32b682bc5c9fc.js",
         "/bhishi/manifest.webmanifest",
         "/bhishi/polyfills.bb2be8907b508e0a.js",
         "/bhishi/runtime.d6d9a0fbaf7f4069.js",
@@ -52,8 +52,8 @@
     "/bhishi/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/bhishi/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/bhishi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/bhishi/index.html": "723a66c85b5b8d445ac96c1869fcbf73324de4ed",
-    "/bhishi/main.1c8a139cb47e6e60.js": "7691c901d40a7addda560e4b5e1e2ae0ce6b895d",
+    "/bhishi/index.html": "34d7ac777ccb5a9bd17f041f6d06327331fe197a",
+    "/bhishi/main.2dc32b682bc5c9fc.js": "7dedafacc98b02a6eaba94c30357c023cc28b6c8",
     "/bhishi/manifest.webmanifest": "ed4fb64daabd2fe1b9e542ad5781ff195ca2cc61",
     "/bhishi/polyfills.bb2be8907b508e0a.js": "2c54640a69734c72aa912b2f0f0bae68142411d5",
     "/bhishi/runtime.d6d9a0fbaf7f4069.js": "6524b2b6a8c0af60013f8d5554a98441dac97c46",
