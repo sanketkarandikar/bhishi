@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745823307803,
+  "timestamp": 1745823999433,
   "index": "/bhishi/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/bhishi/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/bhishi/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/bhishi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/bhishi/index.html": "34d7ac777ccb5a9bd17f041f6d06327331fe197a",
+    "/bhishi/index.html": "50404f83bf107058168cc4ad454b94ed9fb0aa03",
     "/bhishi/main.2dc32b682bc5c9fc.js": "7dedafacc98b02a6eaba94c30357c023cc28b6c8",
     "/bhishi/manifest.webmanifest": "ed4fb64daabd2fe1b9e542ad5781ff195ca2cc61",
     "/bhishi/polyfills.bb2be8907b508e0a.js": "2c54640a69734c72aa912b2f0f0bae68142411d5",
