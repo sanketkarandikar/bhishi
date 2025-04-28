@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1745823999433,
-  "index": "/bhishi/index.html",
+  "timestamp": 1745824426903,
+  "index": "https://github.com/sanketkarandikar/bhishi/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/bhishi/favicon.ico",
-        "/bhishi/index.html",
-        "/bhishi/main.2dc32b682bc5c9fc.js",
-        "/bhishi/manifest.webmanifest",
-        "/bhishi/polyfills.bb2be8907b508e0a.js",
-        "/bhishi/runtime.d6d9a0fbaf7f4069.js",
-        "/bhishi/styles.8e6cb086c88961e4.css"
+        "https://github.com/sanketkarandikar/bhishi/favicon.ico",
+        "https://github.com/sanketkarandikar/bhishi/index.html",
+        "https://github.com/sanketkarandikar/bhishi/main.2dc32b682bc5c9fc.js",
+        "https://github.com/sanketkarandikar/bhishi/manifest.webmanifest",
+        "https://github.com/sanketkarandikar/bhishi/polyfills.bb2be8907b508e0a.js",
+        "https://github.com/sanketkarandikar/bhishi/runtime.d6d9a0fbaf7f4069.js",
+        "https://github.com/sanketkarandikar/bhishi/styles.8e6cb086c88961e4.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/bhishi/assets/icons/icon-128x128.png",
-        "/bhishi/assets/icons/icon-144x144.png",
-        "/bhishi/assets/icons/icon-152x152.png",
-        "/bhishi/assets/icons/icon-192x192.png",
-        "/bhishi/assets/icons/icon-384x384.png",
-        "/bhishi/assets/icons/icon-512x512.png",
-        "/bhishi/assets/icons/icon-72x72.png",
-        "/bhishi/assets/icons/icon-96x96.png"
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-128x128.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-144x144.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-152x152.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-192x192.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-384x384.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-512x512.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-72x72.png",
+        "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/bhishi/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/bhishi/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/bhishi/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/bhishi/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/bhishi/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/bhishi/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/bhishi/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/bhishi/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/bhishi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/bhishi/index.html": "50404f83bf107058168cc4ad454b94ed9fb0aa03",
-    "/bhishi/main.2dc32b682bc5c9fc.js": "7dedafacc98b02a6eaba94c30357c023cc28b6c8",
-    "/bhishi/manifest.webmanifest": "ed4fb64daabd2fe1b9e542ad5781ff195ca2cc61",
-    "/bhishi/polyfills.bb2be8907b508e0a.js": "2c54640a69734c72aa912b2f0f0bae68142411d5",
-    "/bhishi/runtime.d6d9a0fbaf7f4069.js": "6524b2b6a8c0af60013f8d5554a98441dac97c46",
-    "/bhishi/styles.8e6cb086c88961e4.css": "30f3e247332020ab0014727ae49a719803bc5767"
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://github.com/sanketkarandikar/bhishi/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://github.com/sanketkarandikar/bhishi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/sanketkarandikar/bhishi/index.html": "ce54d31262c8be6703a48bd5a4b1b51eaf5f0825",
+    "https://github.com/sanketkarandikar/bhishi/main.2dc32b682bc5c9fc.js": "7dedafacc98b02a6eaba94c30357c023cc28b6c8",
+    "https://github.com/sanketkarandikar/bhishi/manifest.webmanifest": "ed4fb64daabd2fe1b9e542ad5781ff195ca2cc61",
+    "https://github.com/sanketkarandikar/bhishi/polyfills.bb2be8907b508e0a.js": "2c54640a69734c72aa912b2f0f0bae68142411d5",
+    "https://github.com/sanketkarandikar/bhishi/runtime.d6d9a0fbaf7f4069.js": "6524b2b6a8c0af60013f8d5554a98441dac97c46",
+    "https://github.com/sanketkarandikar/bhishi/styles.8e6cb086c88961e4.css": "30f3e247332020ab0014727ae49a719803bc5767"
   },
   "navigationUrls": [
     {
